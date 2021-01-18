@@ -124,3 +124,9 @@ EVENTUALLY
 
 * implement previous_versions: functionality to roll back or view particular files' previous state
 * identify java versions in web-ui, allow choice of utilized jvm
+
+FORK NOTES
+-------
+
+* Personal fork for custom tweaks
+* Forked from [ZEBaker98](https://github.com/ZEBaker98), whom added commits [cf03fe1](https://github.com/ZEBaker98/mineos-node/commit/cf03fe1a9052c50e024638c21cd2a74014dd743f) and [699d3c3](https://github.com/ZEBaker98/mineos-node/commit/699d3c32452d85d7a576229f5301e7e0ff159035) to provide a proper shutdown script for minecraft server children processes.
